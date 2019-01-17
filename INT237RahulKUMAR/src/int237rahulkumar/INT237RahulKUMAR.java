@@ -39,9 +39,9 @@ import org.w3c.dom.NodeList;
  */
 public class INT237RahulKUMAR  {
 
-        private static final String USERNAME ="sql12273536";
-	private static final String PASSWORD ="accolite";
-	private static final String CONN_STRING ="jdbc:mysql://sql12.freemysqlhosting.net/sql12273536?useSSL=false";
+        private static final String USERNAME ="sql12274592";
+	private static final String PASSWORD ="BYKrdA3mDn";
+	private static final String CONN_STRING ="jdbc:mysql://sql12.freemysqlhosting.net/sql12274592?useSSL=false";
 	
 	public static void main(String[] args) throws Exception,ClassNotFoundException, SQLException, IOException {
             
